@@ -1,0 +1,1 @@
+Ruby program that lets a user know which items are available for purchase, prompts the user to select an item, checks if it's available and adds it to an array if so. Once finished the program prints out the final list. 
